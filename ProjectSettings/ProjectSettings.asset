@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: ab0c99ab8c2917e4ea030a63ec2ce960
+  productGUID: f3cc552759ab5b446993016ebc5f9b40
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Motores1_GrupoF7
+  productName: Motores1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -524,7 +524,10 @@ PlayerSettings:
       m_Height: 720
       m_Kind: 1
       m_SubKind: 
-  m_BuildTargetBatching: []
+  m_BuildTargetBatching:
+  - m_BuildTarget: WebGL
+    m_StaticBatching: 0
+    m_DynamicBatching: 0
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
@@ -846,14 +849,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Motores1_GrupoF7
+  metroPackageName: Motores1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Motores1_GrupoF7
+  metroApplicationDescription: Motores1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -922,12 +925,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: e64143a2-45c3-4b0a-98a6-62a4d03ebd53
+  cloudProjectId: e8cf3f18-d922-47f5-8c0d-cd6591636315
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Motores1_GrupoF7
+  projectName: Motores1
   organizationId: ingsistemasar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
